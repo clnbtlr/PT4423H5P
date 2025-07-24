@@ -1,102 +1,91 @@
 {
-    "color":"#981d99",
+    "color":"#000000",
     "hotspots":[
         {
-            "position":{"x":57,"y":52},
-            "alwaysFullscreen":false,
+            "header":"Strawberries",
+            "position":{"x":54,"y":55,"legacyPositioning":true},
+            "alwaysFullscreen":true,
             "content":[
-                {
-                    "params":{
-                        "text":"<p>Spasticity can be increased if Dave is in a slouched position.</p>\n"
+                {"params":{
+                    "text":"<p>Blueberries contains the following nutrients:<\/p>\n\n<ul>\n\t<li>Vitamin C<\/li>\n\t<li>Vitamin K<\/li>\n\t<li>Manganese<\/li>\n\t<li>Fiber<\/li>\n\t<li>Copper<\/li>\n<\/ul>\n\n<p>Blueberries are considered&nbsp;health beneficial, and said to include the following benefits:<\/p>\n\n<ul>\n\t<li>Cholesterol reduction<\/li>\n\t<li>Anti-aging<\/li>\n\t<li>Preserves eyesight<\/li>\n\t<li>Brain health<\/li>\n\t<li>Help digestion<\/li>\n\t<li>Fight cancer<\/li>\n<\/ul>\n"
                     },
                     "library":"H5P.Text 1.1",
-                    "subContentId":"23805481-394a-4126-9a61-716c447ad4ef"
+                    "subContentId":"42e93192-245f-4640-b876-955b21bf171c",
+                    "metadata":{
+                        "contentType":"Text",
+                        "license":"U",
+                        "title":"Untitled Text"
+                    }
                 }
-            ],
-            "header":"Bottom right back in chair"
+            ]
         },
         {
-            "position":{"x":52,"y":57},
+            "header":"Blueberries",
+            "position":{"x":35,"y":33,"legacyPositioning":true},
             "alwaysFullscreen":false,
             "content":[
-                {
-                    "params":{
-                        "text":"<p>Too deep a chair can prevent Dave's lower legs from being positioned straight down allowing his feet to be flat on the floor. Too shallow a chair puts excessive pressure on Dave's bottom and upper thighs.</p>\n"
-                    },"library":"H5P.Text 1.1",
-                    "subContentId":"25b63b74-0611-4d88-bf96-daa7d248de9b"
-                }
-            ],
-            "header":"Correct seat depth"
-        },
-        {
-            "position":{"x":51,"y":64},
-            "alwaysFullscreen":false,
-            "content":[
-                {
-                    "params":{
-                        "text":"<p>Too high, and Dave's feet will not be fully on the floor, too low, will put excessive pressure on his coccyx.</p>\n"
+                {"params":{
+                    "text":"<p>Blueberries contains the following nutrients:<\/p>\n\n<ul>\n\t<li>Vitamin C<\/li>\n\t<li>Vitamin K<\/li>\n\t<li>Manganese<\/li>\n\t<li>Fiber<\/li>\n\t<li>Copper<\/li>\n<\/ul>\n\n<p>Blueberries are considered&nbsp;health beneficial, and said to include the following benefits:<\/p>\n\n<ul>\n\t<li>Cholesterol reduction<\/li>\n\t<li>Anti-aging<\/li>\n\t<li>Preserves eyesight<\/li>\n\t<li>Brain health<\/li>\n\t<li>Help digestion<\/li>\n\t<li>Fight cancer<\/li>\n<\/ul>\n"
                     },
                     "library":"H5P.Text 1.1",
-                    "subContentId":"2c217923-df2d-47e8-bf23-b23ade45466c"
+                    "subContentId":"42e93192-245f-4640-b876-955b21bf171c",
+                    "metadata":{
+                        "contentType":"Text",
+                        "license":"U",
+                        "title":"Untitled Text"
+                    }
                 }
-            ],
-            "header":"Correct seat height"
+            ]
         },
         {
-            "position":{"x":41,"y":34},
+            "header":"Raspberries",
+            "position":{"x":26,"y":60,"legacyPositioning":true},
+            "alwaysFullscreen":false,
+            "content":[
+                {"params":{
+                    "text":"<p>Blueberries contains the following nutrients:<\/p>\n\n<ul>\n\t<li>Vitamin C<\/li>\n\t<li>Vitamin K<\/li>\n\t<li>Manganese<\/li>\n\t<li>Fiber<\/li>\n\t<li>Copper<\/li>\n<\/ul>\n\n<p>Blueberries are considered&nbsp;health beneficial, and said to include the following benefits:<\/p>\n\n<ul>\n\t<li>Cholesterol reduction<\/li>\n\t<li>Anti-aging<\/li>\n\t<li>Preserves eyesight<\/li>\n\t<li>Brain health<\/li>\n\t<li>Help digestion<\/li>\n\t<li>Fight cancer<\/li>\n<\/ul>\n"
+                    },
+                    "library":"H5P.Text 1.1",
+                    "subContentId":"42e93192-245f-4640-b876-955b21bf171c",
+                    "metadata":{
+                        "contentType":"Text",
+                        "license":"U",
+                        "title":"Untitled Text"
+                    }
+                }
+            ]
+        },
+        {
+            "header":"Blackberries",
+            "position":{"x":66,"y":20,"legacyPositioning":true},
             "alwaysFullscreen":false,
             "content":[
                 {
                     "params":{
-                        "text":"<p>Too high will cause Dave to hunch his shoulders and too low will provide inadequate support for his arms and shoulders.</p>\n"
-                    },
-                    "library":"H5P.Text 1.1",
-                    "subContentId":"147eb2c1-d052-47ac-ac5a-0f237944118d"
+                        "text":"<p>Blackberries are very low in calories and carbohydrates, contains no fat, and are&nbsp;still rich in:<\/p>\n\n<ul>\n\t<li>Bioflavanoids<\/li>\n\t<li>Vitamin C<\/li>\n\t<li>Fiber<\/li>\n\t<li>Vitamin A<\/li>\n\t<li>Vitamin E<\/li>\n\t<li>Vitamin K<\/li>\n<\/ul>\n\n<p>The dark blue color indicates its' high levels of antioxidants. Consumption is said to include the following benefits:<\/p>\n\n<ul>\n\t<li>Promotes healthy tightening of skin tissue<\/li>\n\t<li>Keeps the brain alert and helps improve memory<\/li>\n\t<li>Reduce intestinal inflammation<\/li>\n\t<li>Cancer preventive properties<\/li>\n\t<li>Reduces risk of heart diseases<\/li>\n<\/ul>\n\n<p>Beware of blackcurrant that has turned orange, that is sign of a serious fungal disease.<\/p>\n"
+                        },
+                        "library":"H5P.Text 1.1",
+                        "subContentId":"ddf100c8-c098-488b-bc05-aa845e09e0a2",
+                        "metadata":{"contentType":"Text","license":"U","title":"Untitled Text"}
                 }
-            ],
-            "header":"Correct arm height"
-        },
-        {
-            "position":{"x":67,"y":18},
-            "alwaysFullscreen":false,
-            "content":[
-                {
-                    "params":{
-                        "text":"<p>If the back of the chair is too low, Dave will not have enough support to maintain his position</p>\n"
-                    },
-                    "library":"H5P.Text 1.1",
-                    "subContentId":"3519b68e-a4b7-4260-9a0b-af5bd76496a1"
-                }
-            ],
-            "header":"Correct back height"
-        },
-        {
-            "position":{"x":35,"y":78},
-            "alwaysFullscreen":false,
-            "content":[
-                {
-                    "params":{
-                        "text":"<p>If the floor or foot plates are not at the right angle or uneven, increased spasticity may cause him to pull further out of position.</p>\n"
-                    },
-                    "library":"H5P.Text 1.1",
-                    "subContentId":"adbd6916-e7f1-4d84-9aa8-b8e3d7f9a70e"
-                }
-            ],
-            "header":"Good feet support to enable 90° ankles"
+            ]
         }
     ],
-    "image":
-    {
-        "path":"images/image-53e9e429bba63.jpg",
-        "mime":"image/jpeg",
+    "image":{
+        "path":"images\/image-53e9e429bba63.jpg",
+        "mime":"image\/jpeg",
         "copyright":{
-            "license":"CC BY-NC-SA",
-            "version":"4.0",
-            "year":"2017",
-            "author":"Copyright © Chest Heart & Stroke Scotland and The University of Edinburgh",
-            "source":"http://www.strokeadvancingmodules.org"
+            "license":"CC BY",
+            "source":"http:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/61\/Summer_Fruits.jpg",
+            "title":"Summer_Fruits.jpg",
+            "author":"Angelo Juan Ramos",
+            "version":"4.0"},
+            "width":3504,
+            "height":2336
         },
-        "width":750,
-        "height":500
-    }
+    "hotspotNumberLabel":"Hotspot #num",
+    "closeButtonLabel":"Close",
+    "backgroundImageAltText":"A collection of different types of berries",
+    "iconType":"icon",
+    "icon":"plus"
 }
