@@ -13,89 +13,90 @@
                     "subContentId":"23805481-394a-4126-9a61-716c447ad4ef"
                 }
             ],
-            "header":"Bottom right back in chair"},
-            {
-                "position":{"x":52,"y":57},
-                "alwaysFullscreen":false,
-                "content":[
-                    {
-                        "params":{
-                            "text":"<p>Too deep a chair can prevent Dave's lower legs from being positioned straight down allowing his feet to be flat on the floor. Too shallow a chair puts excessive pressure on Dave's bottom and upper thighs.</p>\n"
-                        },"library":"H5P.Text 1.1",
-                        "subContentId":"25b63b74-0611-4d88-bf96-daa7d248de9b"
-                    }
-                ],
-                "header":"Correct seat depth"
-            },
-            {
-                "position":{"x":51,"y":64},
-                "alwaysFullscreen":false,
-                "content":[
-                    {
-                        "params":{
-                            "text":"<p>Too high, and Dave's feet will not be fully on the floor, too low, will put excessive pressure on his coccyx.</p>\n"
-                        },
-                        "library":"H5P.Text 1.1",
-                        "subContentId":"2c217923-df2d-47e8-bf23-b23ade45466c"
-                    }
-                ],
-                "header":"Correct seat height"
-            },
-            {
-                "position":{"x":41,"y":34},
-                "alwaysFullscreen":false,
-                "content":[
-                    {
-                        "params":{
-                            "text":"<p>Too high will cause Dave to hunch his shoulders and too low will provide inadequate support for his arms and shoulders.</p>\n"
-                        },
-                        "library":"H5P.Text 1.1",
-                        "subContentId":"147eb2c1-d052-47ac-ac5a-0f237944118d"
-                    }
-                ],
-                "header":"Correct arm height"
-            },
-            {
-                "position":{"x":67,"y":18},
-                "alwaysFullscreen":false,
-                "content":[
-                    {
-                        "params":{
-                            "text":"<p>If the back of the chair is too low, Dave will not have enough support to maintain his position</p>\n"
-                        },
-                        "library":"H5P.Text 1.1",
-                        "subContentId":"3519b68e-a4b7-4260-9a0b-af5bd76496a1"
-                    }
-                ],
-                "header":"Correct back height"
-            },
-            {
-                "position":{"x":35,"y":78},
-                "alwaysFullscreen":false,
-                "content":[
-                    {
-                        "params":{
-                            "text":"<p>If the floor or foot plates are not at the right angle or uneven, increased spasticity may cause him to pull further out of position.</p>\n"
-                        },
-                        "library":"H5P.Text 1.1",
-                        "subContentId":"adbd6916-e7f1-4d84-9aa8-b8e3d7f9a70e"
-                    }
-                ],
-                "header":"Good feet support to enable 90° ankles"
-            }
-        ],
-        "image":
+            "header":"Bottom right back in chair"
+        },
         {
-            "path":"images/image-53e9e429bba63.jpg",
-            "mime":"image/jpeg",
-            "copyright":{
-                "license":"CC BY-NC-SA",
-                "version":"4.0",
-                "year":"2017",
-                "author":"Copyright © Chest Heart & Stroke Scotland and The University of Edinburgh",
-                "source":"http://www.strokeadvancingmodules.org"
-            },
-            "width":750,
-            "height":500
+            "position":{"x":52,"y":57},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>Too deep a chair can prevent Dave's lower legs from being positioned straight down allowing his feet to be flat on the floor. Too shallow a chair puts excessive pressure on Dave's bottom and upper thighs.</p>\n"
+                    },"library":"H5P.Text 1.1",
+                    "subContentId":"25b63b74-0611-4d88-bf96-daa7d248de9b"
+                }
+            ],
+            "header":"Correct seat depth"
+        },
+        {
+            "position":{"x":51,"y":64},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>Too high, and Dave's feet will not be fully on the floor, too low, will put excessive pressure on his coccyx.</p>\n"
+                    },
+                    "library":"H5P.Text 1.1",
+                    "subContentId":"2c217923-df2d-47e8-bf23-b23ade45466c"
+                }
+            ],
+            "header":"Correct seat height"
+        },
+        {
+            "position":{"x":41,"y":34},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>Too high will cause Dave to hunch his shoulders and too low will provide inadequate support for his arms and shoulders.</p>\n"
+                    },
+                    "library":"H5P.Text 1.1",
+                    "subContentId":"147eb2c1-d052-47ac-ac5a-0f237944118d"
+                }
+            ],
+            "header":"Correct arm height"
+        },
+        {
+            "position":{"x":67,"y":18},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>If the back of the chair is too low, Dave will not have enough support to maintain his position</p>\n"
+                    },
+                    "library":"H5P.Text 1.1",
+                    "subContentId":"3519b68e-a4b7-4260-9a0b-af5bd76496a1"
+                }
+            ],
+            "header":"Correct back height"
+        },
+        {
+            "position":{"x":35,"y":78},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>If the floor or foot plates are not at the right angle or uneven, increased spasticity may cause him to pull further out of position.</p>\n"
+                    },
+                    "library":"H5P.Text 1.1",
+                    "subContentId":"adbd6916-e7f1-4d84-9aa8-b8e3d7f9a70e"
+                }
+            ],
+            "header":"Good feet support to enable 90° ankles"
         }
+    ],
+    "image":
+    {
+        "path":"images/image-53e9e429bba63.jpg",
+        "mime":"image/jpeg",
+        "copyright":{
+            "license":"CC BY-NC-SA",
+            "version":"4.0",
+            "year":"2017",
+            "author":"Copyright © Chest Heart & Stroke Scotland and The University of Edinburgh",
+            "source":"http://www.strokeadvancingmodules.org"
+        },
+        "width":750,
+        "height":500
+    }
 }
