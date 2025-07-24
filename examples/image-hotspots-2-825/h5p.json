@@ -3,9 +3,7 @@
     "language":"en",
     "mainLibrary":"H5P.ImageHotspots",
     "embedTypes":
-    [
-        "iframe"
-    ],
+    ["div"],
     "license":"U",
     "preloadedDependencies":[
         {"machineName":"H5P.ImageHotspots","majorVersion":"1","minorVersion":"5"},
