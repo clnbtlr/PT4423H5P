@@ -1,94 +1,41 @@
 {
-    "color":"#981d99",
+    "color":"#E51050",
     "hotspots":[
         {
-            "position":{"x":57,"y":52},
+            "header":"Application Menu",
+            "position":{"x":4,"y":2},
             "alwaysFullscreen":false,
             "content":[
                 {
                     "params":{
-                        "text":"<p>Spasticity can be increased if Dave is in a slouched position.</p>\n"
+                        "text":"<p>The application menu contains commands that are relevant for the drawing as a whole. These include:</p>\n<\/p>\n\n<ul>\n\t<li>New<\/li>\n\t<li>Open<\/li>\n\t<li>Save<\/li>\n\t<li>Export<\/li>\n\t<li>Close<\/li>\n\t<li>Options<\/li>"
                     },
                     "library":"H5P.Text 1.1",
                     "subContentId":"23805481-394a-4126-9a61-716c447ad4ef"
                 }
-            ],
-            "header":"Bottom right back in chair"},
-            {
-                "position":{"x":52,"y":57},
-                "alwaysFullscreen":false,
-                "content":[
-                    {
-                        "params":{
-                            "text":"<p>Too deep a chair can prevent Dave's lower legs from being positioned straight down allowing his feet to be flat on the floor. Too shallow a chair puts excessive pressure on Dave's bottom and upper thighs.</p>\n"
-                        },"library":"H5P.Text 1.1",
-                        "subContentId":"25b63b74-0611-4d88-bf96-daa7d248de9b"
-                    }
-                ],
-                "header":"Correct seat depth"
-            },
-            {
-                "position":{"x":51,"y":64},
-                "alwaysFullscreen":false,
-                "content":[
-                    {
-                        "params":{
-                            "text":"<p>Too high, and Dave's feet will not be fully on the floor, too low, will put excessive pressure on his coccyx.</p>\n"
-                        },
-                        "library":"H5P.Text 1.1",
-                        "subContentId":"2c217923-df2d-47e8-bf23-b23ade45466c"
-                    }
-                ],
-                "header":"Correct seat height"
-            },
-            {
-                "position":{"x":41,"y":34},
-                "alwaysFullscreen":false,
-                "content":[
-                    {
-                        "params":{
-                            "text":"<p>Too high will cause Dave to hunch his shoulders and too low will provide inadequate support for his arms and shoulders.</p>\n"
-                        },
-                        "library":"H5P.Text 1.1",
-                        "subContentId":"147eb2c1-d052-47ac-ac5a-0f237944118d"
-                    }
-                ],
-                "header":"Correct arm height"
-            },
-            {
-                "position":{"x":67,"y":18},
-                "alwaysFullscreen":false,
-                "content":[
-                    {
-                        "params":{
-                            "text":"<p>If the back of the chair is too low, Dave will not have enough support to maintain his position</p>\n"
-                        },
-                        "library":"H5P.Text 1.1",
-                        "subContentId":"3519b68e-a4b7-4260-9a0b-af5bd76496a1"
-                    }
-                ],
-                "header":"Correct back height"
-            },
-            {
-                "position":{"x":35,"y":78},
-                "alwaysFullscreen":false,
-                "content":[
-                    {
-                        "params":{
-                            "text":"<p>If the floor or foot plates are not at the right angle or uneven, increased spasticity may cause him to pull further out of position.</p>\n"
-                        },
-                        "library":"H5P.Text 1.1",
-                        "subContentId":"adbd6916-e7f1-4d84-9aa8-b8e3d7f9a70e"
-                    }
-                ],
-                "header":"Good feet support to enable 90° ankles"
-            }
+            ]
+        },
+        {
+            "header":"Ribbon",
+            "position":{"x":52,"y":8},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>The ribbon is the central location for accessing commands in AutoCAD. The ribbon is organised into tabs that reflect common tasks in the drawing process.</p>"
+                    },
+                    "library":"H5P.Text 1.1",
+                    "subContentId":"25b63b74-0611-4d88-bf96-daa7d248de9b"
+                }
+            ]
+        }
         ],
         "image":
         {
-            "path":"images/img_floorPlanExample.jpg",
-            "mime":"image/jpeg",
+            "path":"images\/img_floorPlanExample.jpg",
+            "mime":"image\/jpeg",
             "width":1280,
             "height":720
         }
+
 }
