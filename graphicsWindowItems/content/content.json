@@ -10,7 +10,8 @@
                     "params":{
                         "text":"<p>The application menu contains commands that are relevant for the drawing as a whole. These include:</p>\n<\/p>\n\n<ul>\n\t<li>New<\/li>\n\t<li>Open<\/li>\n\t<li>Save<\/li>\n\t<li>Export<\/li>\n\t<li>Close<\/li>\n\t<li>Options<\/li>"
                     },
-                    "library":"H5P.Text 1.1"
+                    "library":"H5P.Text 1.1",
+                    "subContentId":"23805481-394a-4126-9a61-716c447ad4ef"
                 }
             ]
         },
@@ -23,7 +24,8 @@
                     "params":{
                         "text":"<p>The ribbon is the central location for accessing commands in AutoCAD. The ribbon is organised into tabs that reflect common tasks in the drawing process.</p>"
                     },
-                    "library":"H5P.Text 1.1"
+                    "library":"H5P.Text 1.1",
+                    "subContentId":"25b63b74-0611-4d88-bf96-daa7d248de9b"
                 }
             ]
         }
