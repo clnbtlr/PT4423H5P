@@ -1,0 +1,42 @@
+{
+    "color":"#E51050",
+    "hotspots":[
+        {
+            "header":"Application Menu",
+            "position":{"x":4,"y":2},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>The application menu contains commands that are relevant for the drawing as a whole. These include:</p>\n<\/p>\n\n<ul>\n\t<li>New<\/li>\n\t<li>Open<\/li>\n\t<li>Save<\/li>\n\t<li>Export<\/li>\n\t<li>Close<\/li>\n\t<li>Options<\/li>"
+                    },
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "header":"Ribbon",
+            "position":{"x":52,"y":8},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>The ribbon is the central location for accessing commands in AutoCAD. The ribbon is organised into tabs that reflect common tasks in the drawing process.</p>"
+                    },
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        }
+        ],
+        "image":
+        {
+            "path":"images/img_floorPlanExample.jpg",
+            "mime":"image/jpeg",
+            "width":1280,
+            "height":720
+        },
+        "hotspotNumberLabel":"Hotspot #num",
+        "closeButtonLabel":"Close",
+        "iconType":"icon",
+        "icon":"info"
+}
