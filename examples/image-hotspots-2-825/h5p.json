@@ -2,7 +2,7 @@
     "title":"Image Hotspots",
     "language":"en",
     "mainLibrary":"H5P.ImageHotspots",
-    "embedTypes":["div"],
+    "embedTypes":["iframe"],
     "preloadedDependencies":[
         {"machineName":"H5P.ImageHotspots","majorVersion":"1","minorVersion":"5"},
         {"machineName":"H5P.Text","majorVersion":"1","minorVersion":"1"},
