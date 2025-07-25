@@ -56,7 +56,7 @@
         },
         {
             "header":"Status bar",
-            "position":{"x":86,"y":94},
+            "position":{"x":86,"y":90},
             "alwaysFullscreen":false,
             "content":[
                 {
