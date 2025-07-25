@@ -16,7 +16,7 @@
         },
         {
             "header":"Ribbon",
-            "position":{"x":52,"y":12},
+            "position":{"x":50,"y":12},
             "alwaysFullscreen":false,
             "content":[
                 {
@@ -25,6 +25,71 @@
                     },
                     "library":"H5P.Text 1.1",
                     "subContentId":"25b63b74-0611-4d88-bf96-daa7d248de9b"
+                }
+            ]
+        },
+        {
+            "header":"Ribbon tabs",
+            "position":{"x":4,"y":7},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>The static ribbon tabs group similar commands and include the Home, Insert View, Annotate. Contextual ribbon tabs display depending on the object selected in the drawing area.</p>"
+                    },
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "header":"Command line",
+            "position":{"x":35,"y":93},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>You can directly enter commands using the command line window located above the status bar. AutoCAD also displays prompts and messages. Above the current prompt there are two lines of previous prompts and messages called the command history.</p>"
+                    },
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "header":"Status bar",
+            "position":{"x":86,"y":94},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>The status bar provides quick access to some of the most commonly used drawing tools. You can toggle settings such as grid, snap, polar tracking, and object snap. You can also access additional settings for some of these tools by clicking their drop down arrows.</p>"
+                    },
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "header":"Navigation bar",
+            "position":{"x":96,"y":49},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>The navigation bar is a user interface element where you have quick access to navigation tools, such as Pan, Zoom, etc. Nav. bar can be turn on or off from the View tab.</p>"
+                    },
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "header":"Model space",
+            "position":{"x":50,"y":50},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>This is the primary area in AutoCAD where you create your design geometry.</p>"
+                    },
+                    "library":"H5P.Text 1.1"
                 }
             ]
         }
