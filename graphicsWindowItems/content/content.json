@@ -30,12 +30,12 @@
         },
         {
             "header":"Ribbon tabs",
-            "position":{"x":4,"y":7},
+            "position":{"x":4,"y":4},
             "alwaysFullscreen":false,
             "content":[
                 {
                     "params":{
-                        "text":"<p>The static ribbon tabs group similar commands and include the Home, Insert View, Annotate. Contextual ribbon tabs display depending on the object selected in the drawing area.</p>"
+                        "text":"<p>The static ribbon tabs group similar commands and include the Home, Insert View, Annotate.\nContextual ribbon tabs display depending on the object selected in the drawing area.</p>"
                     },
                     "library":"H5P.Text 1.1"
                 }
@@ -43,12 +43,12 @@
         },
         {
             "header":"Command line",
-            "position":{"x":35,"y":93},
+            "position":{"x":35,"y":88},
             "alwaysFullscreen":false,
             "content":[
                 {
                     "params":{
-                        "text":"<p>You can directly enter commands using the command line window located above the status bar. AutoCAD also displays prompts and messages. Above the current prompt there are two lines of previous prompts and messages called the command history.</p>"
+                        "text":"<p>You can directly enter commands using the command line window located above the status bar. AutoCAD also displays prompts and messages.\nAbove the current prompt there are two lines of previous prompts and messages called the command history.</p>"
                     },
                     "library":"H5P.Text 1.1"
                 }
@@ -61,7 +61,7 @@
             "content":[
                 {
                     "params":{
-                        "text":"<p>The status bar provides quick access to some of the most commonly used drawing tools. You can toggle settings such as grid, snap, polar tracking, and object snap. You can also access additional settings for some of these tools by clicking their drop down arrows.</p>"
+                        "text":"<p>The status bar provides quick access to some of the most commonly used drawing tools.\nYou can toggle settings such as grid, snap, polar tracking, and object snap. You can also access additional settings for some of these tools by clicking their drop down arrows.</p>"
                     },
                     "library":"H5P.Text 1.1"
                 }
@@ -74,7 +74,7 @@
             "content":[
                 {
                     "params":{
-                        "text":"<p>The navigation bar is a user interface element where you have quick access to navigation tools, such as Pan, Zoom, etc. Nav. bar can be turn on or off from the View tab.</p>"
+                        "text":"<p>The navigation bar is a user interface element where you have quick access to navigation tools, such as Pan, Zoom, etc.\nNav. bar can be turn on or off from the View tab.</p>"
                     },
                     "library":"H5P.Text 1.1"
                 }
@@ -100,6 +100,8 @@
             "mime":"image\/jpeg",
             "width":1280,
             "height":720,
+            "hotspotNumberLabel":"Hotspot #num",
+            "closeButtonLabel":"Close",
             "iconType":"icon",
             "icon":"info"
         }
