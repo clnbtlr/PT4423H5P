@@ -30,13 +30,10 @@
         ],
         "image":
         {
-            "path":"images/img_floorPlanExample.jpg",
-            "mime":"image/jpeg",
+            "path":"images\/img_floorPlanExample.jpg",
+            "mime":"image\/jpeg",
             "width":1280,
             "height":720
-        },
-        "hotspotNumberLabel":"Hotspot #num",
-        "closeButtonLabel":"Close",
-        "iconType":"icon",
-        "icon":"info"
+        }
+
 }
