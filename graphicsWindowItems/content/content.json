@@ -95,7 +95,7 @@
         },
         {
             "header":"File tabs",
-            "position":{"x":10,"y":22},
+            "position":{"x":10,"y":18},
             "alwaysFullscreen":false,
             "content":[
                 {
