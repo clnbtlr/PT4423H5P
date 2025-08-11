@@ -48,7 +48,7 @@
             "content":[
                 {
                     "params":{
-                        "text":"<p>You can directly enter commands using the command line window located above the status bar. AutoCAD also displays prompts and messages.Above the current prompt there are two lines of previous prompts and messages called the command history.</p>"
+                        "text":"<p>You can directly enter commands using the command line window located above the status bar. AutoCAD also displays prompts and messages. Above the current prompt there are two lines of previous prompts and messages called the command history.</p>"
                     },
                     "library":"H5P.Text 1.1"
                 }
