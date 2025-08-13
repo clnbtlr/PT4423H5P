@@ -53,7 +53,7 @@
             "header":"Dynamic Input",
             "content":[
                 {
-                    "params":{"text":"Displays a tooltip near the cursor, which you can use to specify options for commands and values for distances and angles."},
+                    "params":{"text":"Displays a tooltip near the cursor, which you can use to specify options for commands and values for distances and angles. (F12)"},
                     "library":"H5P.Text 1.1"
                 }
             ]
