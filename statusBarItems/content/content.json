@@ -35,6 +35,94 @@
                     "library":"H5P.Text 1.1"
                 }
             ]
+        },
+        {
+            "position":{"x":32.61,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Snap",
+            "content":[
+                {
+                    "params":{"text":"Turns on snap-to-grid. When grid snaps are turned on, the cursor snaps to specified grid intervals as you move the cursor. (F9)"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":37.84,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Dynamic Input",
+            "content":[
+                {
+                    "params":{"text":"Displays a tooltip near the cursor, which you can use to specify options for commands and values for distances and angles."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":40.68,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Orthomode",
+            "content":[
+                {
+                    "params":{"text":"Constrains cursor movement to the horizontal or vertical directions. (F8)"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":40.68,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Object Snap Tracking",
+            "content":[
+                {
+                    "params":{"text":"Tracks the cursor along vertical and horizontal alignment paths from object snap points. (F11)"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":56.16,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"2D Object Snap",
+            "content":[
+                {
+                    "params":{"text":"Snaps the cursor to the nearest 2D reference point, as you move the cursor. For example endpoints, centers of circles, midpoints, etc. (F3)"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":61.07,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"LineWeight",
+            "content":[
+                {
+                    "params":{"text":"Displays lineweights in a drawing."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":85.28,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Quick Properties",
+            "content":[
+                {
+                    "params":{"text":"Displays the Quick Properties window when objects are selected."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":85.28,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Customization",
+            "content":[
+                {
+                    "params":{"text":"Specifies what command buttons to display on the status bar."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
         }
     ],
     "hotspotNumberLabel":"Hotspot #num",

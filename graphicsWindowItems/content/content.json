@@ -61,7 +61,7 @@
             "content":[
                 {
                     "params":{
-                        "text":"<p>The status bar provides quick access to some of the most commonly used drawing tools.You can toggle settings such as grid, snap, polar tracking, and object snap. You can also access additional settings for some of these tools by clicking their drop down arrows.</p>"
+                        "text":"<p>The status bar provides quick access to some of the most commonly used drawing tools.You can toggle settings such as grid, snap, polar tracking, and object snap.</p>"
                     },
                     "library":"H5P.Text 1.1"
                 }
