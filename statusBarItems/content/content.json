@@ -4,7 +4,7 @@
     "color":"#E51050",
     "hotspots":[
         {
-            "position":{"x":11.78,"y":5.41},
+            "position":{"x":11.78,"y":66.67},
             "alwaysFullscreen":false,
             "header":"Coordinates",
             "content":[
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "position":{"x":25.63,"y":5.41},
+            "position":{"x":25.63,"y":66.67},
             "alwaysFullscreen":false,
             "header":"Model Space",
             "content":[
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "position":{"x":29.66,"y":5.41},
+            "position":{"x":29.66,"y":66.67},
             "alwaysFullscreen":false,
             "header":"Grid",
             "content":[
@@ -42,6 +42,6 @@
     "containsAudioVideoLabel":"Contains Audio\/Video",
     "backgroundImageAltText":"AutoCAD status bar",
     "image":{
-        "path":"images\/img_statusBar.png","mime":"image\/png","copyright":{"license":"U"},"width":917,"height":37
+        "path":"images\/img_statusBar.png","mime":"image\/png","copyright":{"license":"U"},"width":917,"height":300
     }
 }
