@@ -1,0 +1,47 @@
+{
+    "iconType":"icon",
+    "icon":"plus",
+    "color":"#E51050",
+    "hotspots":[
+        {
+            "position":{"x":11.78,"y":5.41},
+            "alwaysFullscreen":false,
+            "header":"Coordinates",
+            "content":[
+                {
+                    "params":{"text":"Displays the coordinates of the cursor position."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":25.63,"y":5.41},
+            "alwaysFullscreen":false,
+            "header":"Model Space",
+            "content":[
+                {
+                    "params":{"text":"Indicates that you are currently working in model space."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":29.66,"y":5.41},
+            "alwaysFullscreen":false,
+            "header":"Grid",
+            "content":[
+                {
+                    "params":{"text":"Displays a grid in the drawing area. (F7)"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        }
+    ],
+    "hotspotNumberLabel":"Hotspot #num",
+    "closeButtonLabel":"Close",
+    "containsAudioVideoLabel":"Contains Audio\/Video",
+    "backgroundImageAltText":"AutoCAD status bar",
+    "image":{
+        "path":"images\/img_statusBar.png","mime":"image\/png","copyright":{"license":"U"},"width":917,"height":37
+    }
+}
