@@ -123,6 +123,17 @@
                     "library":"H5P.Text 1.1"
                 }
             ]
+        },
+        {
+            "position":{"x":43.4,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Polar Tracking",
+            "content":[
+                {
+                    "params":{"text":"Tracks the cursor along specified polar angles. (F10)"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
         }
     ],
     "hotspotNumberLabel":"Hotspot #num",
