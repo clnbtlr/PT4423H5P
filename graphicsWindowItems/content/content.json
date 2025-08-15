@@ -105,6 +105,19 @@
                     "library":"H5P.Text 1.1"
                 }
             ]
+        },
+        {
+            "header":"Model and Layout tabs",
+            "position":{"x":7,"y":94},
+            "alwaysFullscreen":false,
+            "content":[
+                {
+                    "params":{
+                        "text":"<p>Model space is the main drawing area and Paper space is used for layout of the drawing for plotting.</p>"
+                    },
+                    "library":"H5P.Text 1.1"
+                }
+            ]
         }
         ],
         "image":
