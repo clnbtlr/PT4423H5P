@@ -1,0 +1,69 @@
+{
+    "iconType":"icon",
+    "icon":"plus",
+    "color":"#E51050",
+    "hotspots":[
+        {
+            "position":{"x":10.69,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Coordinates",
+            "content":[
+                {
+                    "params":{"text":"Displays the coordinates of the cursor position."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":21.26,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Paper Space",
+            "content":[
+                {
+                    "params":{"text":"Indicates that you are currently working in a layout."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":51.91,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Maximize Viewport",
+            "content":[
+                {
+                    "params":{"text":"Expands the current layout viewport to fill the screen. Can then zoom and pan around the entire drawing in model space even though your viewport scale may be locked. Maximized viewport border is blue."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":60.52,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Viewport Lock",
+            "content":[
+                {
+                    "params":{"text":"Locks the display of a layout viewport to prevent scale from changing."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":66.85,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Viewport Scale",
+            "content":[
+                {
+                    "params":{"text":"Displays the scale of the selected viewport. Can select from existing scales or create custom scale."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        }
+    ],
+    "hotspotNumberLabel":"Hotspot #num",
+    "closeButtonLabel":"Close",
+    "containsAudioVideoLabel":"Contains Audio\/Video",
+    "backgroundImageAltText":"AutoCAD status bar for layout viewports",
+    "image":{
+        "path":"images\/img_statusBarViewport.png","mime":"image\/png","copyright":{"license":"U"},"width":917,"height":300
+    }
+}
