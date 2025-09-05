@@ -1,0 +1,80 @@
+{
+    "iconType":"icon",
+    "icon":"plus",
+    "color":"#E51050",
+    "hotspots":[
+        {
+            "position":{"x":60.31,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Annotation Visibility",
+            "content":[
+                {
+                    "params":{"text":"Controls whether all annotative objects are displayed, or only those that match the current annotation scale."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":20.72,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Model Space",
+            "content":[
+                {
+                    "params":{"text":"Indicates that you are currently working in Model Space through a layout viewport."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":63.36,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Autoscale",
+            "content":[
+                {
+                    "params":{"text":"Automatically adds annotation scales to all annotative objects when the annotation scale changes. Use sparingly."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":65.76,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Viewport Lock",
+            "content":[
+                {
+                    "params":{"text":"Locks the display of a layout viewport to prevent scale from changing."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":72.63,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Viewport Scale",
+            "content":[
+                {
+                    "params":{"text":"Displays the scale of the selected viewport. Can select from existing scales or create custom scale."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":74.92,"y":66.67},
+            "alwaysFullscreen":false,
+            "header":"Viewport Scale Sync",
+            "content":[
+                {
+                    "params":{"text":"Updates the viewport scale of the selected or current layout viewport to match its annotation scale."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        }
+    ],
+    "hotspotNumberLabel":"Hotspot #num",
+    "closeButtonLabel":"Close",
+    "containsAudioVideoLabel":"Contains Audio\/Video",
+    "backgroundImageAltText":"AutoCAD status bar for layout viewports",
+    "image":{
+        "path":"images\/img_statusBarViewport.png","mime":"image\/png","copyright":{"license":"U"},"width":917,"height":300
+    }
+}
