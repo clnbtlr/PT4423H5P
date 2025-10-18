@@ -1,0 +1,73 @@
+{
+    "iconType":"icon",
+    "icon":"plus",
+    "color":"#E51050",
+    "hotspots":[
+        {
+            "position":{"x":92.58,"y":19.12},
+            "alwaysFullscreen":false,
+            "header":"Preview",
+            "content":[
+                {
+                    "params":{"text":"The preview displays a graphic representation of the dimension style and shows the effects of changes to the settings."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":16.08,"y":23.14},
+            "alwaysFullscreen":false,
+            "header":"Dimension line style",
+            "content":[
+                {
+                    "params":{"text":"Sets the colour, linetype and lineweight of the dimension line. In general, this is controlled by the layer properties and should be left to ByBlock."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":19.26,"y":63.67},
+            "alwaysFullscreen":false,
+            "header":"Extension line style",
+            "content":[
+                {
+                    "params":{"text":"Sets the colour, linetype and lineweight of the extension line. In general, this is controlled by the layer properties and should be left to ByBlock."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":24.20,"y":35.37},
+            "alwaysFullscreen":false,
+            "header":"Extend beyond ticks",
+            "content":[
+                {
+                    "params":{"text":"Specifies a distance to extend the dimension line past the extension line when you use oblique, architectural, tick, integral, and no marks for arrowheads."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-5E845900-A5D9-40A6-ABE0-D66FC7D50944.png","mime":"image\/png","width":504,"height":117}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":21.55,"y":41.3},
+            "alwaysFullscreen":false,
+            "header":"Baseline spacing",
+            "content":[
+                {
+                    "params":{"text":"Sets the spacing between the dimension lines of a baseline dimension."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        }
+    ],
+    "hotspotNumberLabel":"Hotspot #num",
+    "closeButtonLabel":"Close",
+    "containsAudioVideoLabel":"Contains Audio\/Video",
+    "backgroundImageAltText":"AutoCAD Dimension Style Manager Lines tab items",
+    "image":{
+        "path":"images\/img_dimensionStyleManagerLines.png","mime":"image\/png","copyright":{"license":"U"},"width":917,"height":300
+    }
+}
