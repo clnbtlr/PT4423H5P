@@ -1,0 +1,113 @@
+{
+    "iconType":"icon",
+    "icon":"plus",
+    "color":"#E51050",
+    "hotspots":[
+        {
+            "position":{"x":92.58,"y":19.12},
+            "alwaysFullscreen":false,
+            "header":"Preview",
+            "content":[
+                {
+                    "params":{"text":"The preview displays a graphic representation of the dimension style and shows the effects of changes to the settings."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":22.61,"y":25.81},
+            "alwaysFullscreen":false,
+            "header":"First and Second Arrowheads",
+            "content":[
+                {
+                    "params":{"text":"Sets the arrowhead for the first dimension line. When you change the first arrowhead type, the second arrowhead automatically changes to match it."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":16.25,"y":34.99},
+            "alwaysFullscreen":false,
+            "header":"Leader Arrowhead",
+            "content":[
+                {
+                    "params":{"text":"Sets the arrowhead for the leader line type dimensions such as radius."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":20.49,"y":47.99},
+            "alwaysFullscreen":false,
+            "header":"Arrow size",
+            "content":[
+                {
+                    "params":{"text":"Sets the size of arrowheads."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":18.55,"y":61.19},
+            "alwaysFullscreen":false,
+            "header":"Centre marks",
+            "content":[
+                {
+                    "params":{"text":"Controls the appearance of centre marks and centrelines for diameter and radial dimensions."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":25.27,"y":75.33},
+            "alwaysFullscreen":false,
+            "header":"Dimension Breaks",
+            "content":[
+                {
+                    "params":{"text":"<p>With dimension breaks, you can keep the dimension, extension, or leader lines from appearing as if they are a part of the design.</p><p>Controls the gap width of dimension breaks.</p>"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":82.69,"y":55.64},
+            "alwaysFullscreen":false,
+            "header":"Arc Length Symbol",
+            "content":[
+                {
+                    "params":{"text":"Controls the display of the arc symbol in an arc length dimension."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":66.96,"y":70.55},
+            "alwaysFullscreen":false,
+            "header":"Radius Jog Dimension",
+            "content":[
+                {
+                    "params":{"text":"Controls the display of jogged (zigzag) radius dimensions. Jogged radius dimensions are often created when the centre point of a circle or arc is located off the page."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":74.73,"y":78.59},
+            "alwaysFullscreen":false,
+            "header":"Linear Jog Dimension",
+            "content":[
+                {
+                    "params":{"text":"Controls the display of the jog for linear dimensions. Jog lines are often added to linear dimensions when the actual measurement is not accurately represent by the dimension. Typically the actual measurement is smaller than the desired value."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        }
+    ],
+    "hotspotNumberLabel":"Hotspot #num",
+    "closeButtonLabel":"Close",
+    "containsAudioVideoLabel":"Contains Audio\/Video",
+    "backgroundImageAltText":"AutoCAD Dimension Style Manager Symbols and Arrows tab items",
+    "image":{
+        "path":"images\/img_dimensionStyleManagerSymbolsArrows.png","mime":"image\/png","copyright":{"license":"U"},"width":566,"height":523
+    }
+}
