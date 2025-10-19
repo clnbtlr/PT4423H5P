@@ -1,0 +1,110 @@
+{
+    "iconType":"icon",
+    "icon":"plus",
+    "color":"#E51050",
+    "hotspots":[
+        {
+            "position":{"x":92.58,"y":19.12},
+            "alwaysFullscreen":false,
+            "header":"Preview",
+            "content":[
+                {
+                    "params":{"text":"The preview displays a graphic representation of the dimension style and shows the effects of changes to the settings."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":16.08,"y":19.69},
+            "alwaysFullscreen":false,
+            "header":"Text style",
+            "content":[
+                {
+                    "params":{"text":"Lists the available text styles. These styles are those created in the Text Style Manager."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":16.78,"y":25.81},
+            "alwaysFullscreen":false,
+            "header":"Text Colour",
+            "content":[
+                {
+                    "params":{"text":"Sets the colour for the dimension text. In general, this is controlled by the layer properties and should be left to ByBlock."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":18.90,"y":37.86},
+            "alwaysFullscreen":false,
+            "header":"Text Height",
+            "content":[
+                {
+                    "params":{"text":"<p>Sets the height of the current dimension text style.</p><p></p><p>If the text style specified on this tab has a fixed text height, that height overrides the text height set here. If you want to set the height for dimension text here, make sure the height of the text style is set to 0.</p>"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":30.74,"y":49.90},
+            "alwaysFullscreen":false,
+            "header":"Draw Frame Around Text",
+            "content":[
+                {
+                    "params":{"text":"Displays a rectangular frame around the dimension text."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":16.08,"y":62.52},
+            "alwaysFullscreen":false,
+            "header":"Text Placement",
+            "content":[
+                {
+                    "params":{"text":"Controls the placement of dimension text in relation to the dimension line, e.g. centred, outside, left or right justify, etc."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":24.73,"y":76.86},
+            "alwaysFullscreen":false,
+            "header":"Offset from Dim Line",
+            "content":[
+                {
+                    "params":{"text":"Sets the current text gap, which is the distance around the dimension text when the dimension line is broken to accommodate the dimension text."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-E702CE46-32B4-41CD-A977-DF9DFA712B2F.png","mime":"image\/png","width":504,"height":93}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":72.97,"y":55.26},
+            "alwaysFullscreen":false,
+            "header":"Text Alignment",
+            "content":[
+                {
+                    "params":{"text":"<p>Controls the orientation (horizontal or aligned) of dimension text whether it is inside or outside the extension lines.</p><p></p><p>ISO standard aligns text with the dimension line when text is inside the extension lines, but aligns it horizontally when text is outside the extension lines.</p>"},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-72593946-2C09-48F2-91E8-E457B3DA43D6.png","mime":"image\/png","width":504,"height":53}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        }
+    ],
+    "hotspotNumberLabel":"Hotspot #num",
+    "closeButtonLabel":"Close",
+    "containsAudioVideoLabel":"Contains Audio\/Video",
+    "backgroundImageAltText":"AutoCAD Dimension Style Manager Text tab items",
+    "image":{
+        "path":"images\/img_dimensionStyleManagerText.png","mime":"image\/png","copyright":{"license":"U"},"width":566,"height":523
+    }
+}

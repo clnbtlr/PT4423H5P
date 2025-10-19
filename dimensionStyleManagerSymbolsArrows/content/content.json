@@ -64,7 +64,7 @@
             "header":"Dimension Breaks",
             "content":[
                 {
-                    "params":{"text":"<p>With dimension breaks, you can keep the dimension, extension, or leader lines from appearing as if they are a part of the design.</p><p>Controls the gap width of dimension breaks.</p>"},
+                    "params":{"text":"<p>With dimension breaks, you can keep the dimension, extension, or leader lines from appearing as if they are a part of the design.</p><p></p><p>Controls the gap width of dimension breaks.</p>"},
                     "library":"H5P.Text 1.1"
                 }
             ]
