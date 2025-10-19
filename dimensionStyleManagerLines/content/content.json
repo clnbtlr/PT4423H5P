@@ -61,6 +61,77 @@
                     "library":"H5P.Text 1.1"
                 }
             ]
+        },
+        {
+            "position":{"x":13.96,"y":46.65},
+            "alwaysFullscreen":false,
+            "header":"Suppress",
+            "content":[
+                {
+                    "params":{"text":"Suppresses display of dimension lines. Dim Line 1 suppresses the first dimension line; Dim Line 2 suppresses the second dimension line."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-251F64BB-580B-4E7A-BBDB-D67B1B27532D.png","mime":"image\/png","width":504,"height":123}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":14.31,"y":78.01},
+            "alwaysFullscreen":false,
+            "header":"Suppress",
+            "content":[
+                {
+                    "params":{"text":"Suppresses the display of extension lines. Ext Line 1 suppresses the first extension line; Ext Line 2 suppresses the second extension line."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-F21B5BAE-3B6C-4A62-AC2E-DF7F976D3B0B.png","mime":"image\/png","width":504,"height":117}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":77.21,"y":56.02},
+            "alwaysFullscreen":false,
+            "header":"Extend Beyond Dim Lines",
+            "content":[
+                {
+                    "params":{"text":"Specifies a distance to extend the extension lines above the dimension line."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-120F7BF3-D9A7-46EA-B78E-AD4339DC6841.png","mime":"image\/png","width":504,"height":80}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":71.91,"y":63.10},
+            "alwaysFullscreen":false,
+            "header":"Offset From Origin",
+            "content":[
+                {
+                    "params":{"text":"Sets the distance to offset the extension lines from the points on the drawing that define the dimension."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-906F0F86-A84F-4749-AA76-7AE9AD91BFE1.png","mime":"image\/png","width":504,"height":91}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":81.98,"y":69.98},
+            "alwaysFullscreen":false,
+            "header":"Fixed Length Extension",
+            "content":[
+                {
+                    "params":{"text":"Enables fixed length extension lines."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
         }
     ],
     "hotspotNumberLabel":"Hotspot #num",
