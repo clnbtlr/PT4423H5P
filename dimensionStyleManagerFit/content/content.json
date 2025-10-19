@@ -1,0 +1,91 @@
+{
+    "iconType":"icon",
+    "icon":"plus",
+    "color":"#E51050",
+    "hotspots":[
+        {
+            "position":{"x":92.58,"y":19.12},
+            "alwaysFullscreen":false,
+            "header":"Preview",
+            "content":[
+                {
+                    "params":{"text":"The preview displays a graphic representation of the dimension style and shows the effects of changes to the settings."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":39.22,"y":26.77},
+            "alwaysFullscreen":false,
+            "header":"Fit Options",
+            "content":[
+                {
+                    "params":{"text":"<p>Controls the placement of text and arrowheads based on the space available between the extension lines.</p><p></p><p>When space is available, text and arrowheads are placed between the extension lines. Otherwise, text and arrowheads are placed according to the Fit options.</p><ul><li><strong>Either Text or Arrows:</strong> Moves either the text or the arrowheads outside the extension lines based on the best fit.</li><li><strong>Arrows:</strong> Moves arrowheads outside the extension lines first, then text.</li><li><strong>Text:</strong> Moves text outside the extension lines first, then arrowheads.</li><li><strong>Both Text and Arrows:</strong> When not enough space is available for text and arrowheads, moves both outside the extension lines.</li><li><strong>Always Keep Text Between Ext Lines:</strong> Always places text between extension lines.</li></ul>"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":24.56,"y":59.97},
+            "alwaysFullscreen":false,
+            "header":"Text Placement",
+            "content":[
+                {
+                    "params":{"text":"<p>Sets the placement of dimension text when it is moved from the default position, that is, the position defined by the dimension style.</p><p></p><ul><li><strong>Beside the Dimension Line:</strong> If selected, moves the dimension line whenever dimension text is moved.</li><li><strong>Over the Dimension Line, with Leader:</strong> If selected, dimension lines are not moved when text is moved. If text is moved away from the dimension line, a leader line is created connecting the text to the dimension line. The leader line is omitted when text is too close to the dimension line.</li><li><strong>Over the Dimension Line, Without Leader:</strong> If selected, dimension lines are not moved when text is moved. Text that is moved away from the dimension line is not connected to the dimension line with a leader.</li></ul>"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":82.33,"y":48.57},
+            "alwaysFullscreen":false,
+            "header":"Scale for Dimension Features",
+            "content":[
+                {
+                    "params":{"text":"<p>Sets the overall dimension scale value or the paper space scaling.</p>"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":69.43,"y":52.77},
+            "alwaysFullscreen":false,
+            "header":"Annotative",
+            "content":[
+                {
+                    "params":{"text":"Specifies that the dimension is annotative. Annotative objects and styles are used to control the size and scale at which annotation objects are displayed in model space or a layout. In general, keep this default scale factor of 1.0."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":76.33,"y":70.94},
+            "alwaysFullscreen":false,
+            "header":"Place Text Manually",
+            "content":[
+                {
+                    "params":{"text":"Ignores any horizontal justification settings and places the text at the position you specify at the Dimension Line Location prompt."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":85.16,"y":75.91},
+            "alwaysFullscreen":false,
+            "header":"Draw Dim Line Between Ext Lines",
+            "content":[
+                {
+                    "params":{"text":"Draws dimension lines between the measured points even when the arrowheads are placed outside the measured points."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        }
+    ],
+    "hotspotNumberLabel":"Hotspot #num",
+    "closeButtonLabel":"Close",
+    "containsAudioVideoLabel":"Contains Audio\/Video",
+    "backgroundImageAltText":"AutoCAD Dimension Style Manager Fit tab items",
+    "image":{
+        "path":"images\/img_dimensionStyleManagerFit.png","mime":"image\/png","copyright":{"license":"U"},"width":566,"height":523
+    }
+}
