@@ -20,12 +20,8 @@
             "header":"Method",
             "content":[
                 {
-                    "params":{"text":"Sets the method for calculating the tolerance.<ul><li><strong>None:</strong>  Does not add a tolerance.</li><li><strong>Symmetrical:</strong>  Adds a plus/minus expression of tolerance in which a single value of variation is applied to the dimension measurement. A plus-or-minus sign appears after the dimension. Enter the tolerance value in Upper Value.<div class=&#34;fig fignone&#34;><img class=&#34;image&#34; id=&#34;GUID-BE52ACEE-A046-412D-AEC8-593B9DEB674D__IMAGE_64B584145DDC4B53AFAD24666669C307&#34; width=&#34;504&#34; height=&#34;81&#34; src=&#34;https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-CC6D5BC6-5C7B-4330-924A-A15F2EF4FCA5.png&#34;></div></li></ul>"},
+                    "params":{"text":"Sets the method for calculating the tolerance.<ul><li><strong>None:</strong>  Does not add a tolerance.</li><li><strong>Symmetrical:</strong>  Adds a plus/minus expression of tolerance in which a single value of variation is applied to the dimension measurement. A plus-or-minus sign appears after the dimension. Enter the tolerance value in Upper Value.<div class=\"fig fignone\"><img class=\"image\" width=\"504\" height=\"81\" src=\"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-CC6D5BC6-5C7B-4330-924A-A15F2EF4FCA5.png\"></div></li></ul>"},
                     "library":"H5P.Text 1.1"
-                },
-                {
-                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-236CBEC9-09DC-48C9-9903-7E909DA70EBE.png","mime":"image\/png","width":504,"height":44}},
-                    "library":"H5P.Image 1.1"
                 }
             ]
         }
