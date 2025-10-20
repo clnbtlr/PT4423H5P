@@ -20,7 +20,7 @@
             "header":"Method",
             "content":[
                 {
-                    "params":{"text":"Sets the method for calculating the tolerance.<ul><li><strong>None:</strong>  Does not add a tolerance.</li><li><strong>Symmetrical:</strong>  Adds a plus/minus expression of tolerance in which a single value of variation is applied to the dimension measurement. A plus-or-minus sign appears after the dimension. Enter the tolerance value in Upper Value.<div class=\"fig fignone\"><img class=\"image\" width=\"252\" height=\"80\" src=\"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-CC6D5BC6-5C7B-4330-924A-A15F2EF4FCA5.png\"></div></li></ul>"},
+                    "params":{"text":"Sets the method for calculating the tolerance.<ul><li><strong>None:</strong>  Does not add a tolerance.</li><li><strong>Symmetrical:</strong>  Adds a plus/minus expression of tolerance in which a single value of variation is applied to the dimension measurement. A plus-or-minus sign appears after the dimension. Enter the tolerance value in Upper Value.<div class=\"fig fignone\"><img class=\"image\" width=\"126\" height=\"40\" src=\"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-CC6D5BC6-5C7B-4330-924A-A15F2EF4FCA5.png\"></div></li></ul>"},
                     "library":"H5P.Text 1.1"
                 }
             ]
