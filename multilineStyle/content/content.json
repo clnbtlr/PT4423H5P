@@ -165,6 +165,6 @@
     "containsAudioVideoLabel":"Contains Audio\/Video",
     "backgroundImageAltText":"AutoCAD Multiline Style items",
     "image":{
-        "path":"images\/multilineStyle.png","mime":"image\/png","copyright":{"license":"U"},"width":524,"height":383
+        "path":"images\/img_multilineStyle.png","mime":"image\/png","copyright":{"license":"U"},"width":524,"height":383
     }
 }
