@@ -1,0 +1,170 @@
+{
+    "iconType":"icon",
+    "icon":"plus",
+    "color":"#E51050",
+    "hotspots":[
+        {
+            "position":{"x":17.56,"y":12.27},
+            "alwaysFullscreen":false,
+            "header":"Description",
+            "content":[
+                {
+                    "params":{"text":"Adds a description to a multiline style."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":12.02,"y":21.67},
+            "alwaysFullscreen":false,
+            "header":"Caps",
+            "content":[
+                {
+                    "params":{"text":"Controls the start and end caps of the multiline."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":11.07,"y":32.11},
+            "alwaysFullscreen":false,
+            "header":"Line",
+            "content":[
+                {
+                    "params":{"text":"Displays a line segment across each end of the multiline."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-A4B1D2EE-40A0-4EA1-A541-887AB3E59E39.png","mime":"image\/png","width":504,"height":170}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":15.46,"y":38.38},
+            "alwaysFullscreen":false,
+            "header":"Outer Arc",
+            "content":[
+                {
+                    "params":{"text":"Displays an arc between the outermost elements of the multiline."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-EDC39A6A-0554-430C-990A-D23E836C34A5.png","mime":"image\/png","width":504,"height":166}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":15.65,"y":44.91},
+            "alwaysFullscreen":false,
+            "header":"Inner Arcs",
+            "content":[
+                {
+                    "params":{"text":"Displays an arc between pairs of inner elements. If there's an odd number of elements, the center line is unconnected. For example, if there are six elements, inner arcs connect elements 2 and 5 and elements 3 and 4. If there are seven elements, inner arcs connect elements 2 and 6 and elements 3 and 5. Element 4 is left unconnected."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-07C5740A-83AB-4B58-9795-5EEE735289E2.png","mime":"image\/png","width":504,"height":169}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":12.21,"y":50.91},
+            "alwaysFullscreen":false,
+            "header":"Angle",
+            "content":[
+                {
+                    "params":{"text":"Specifies the angle of the end caps."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-F26BD50D-33D4-49E6-A8A4-C2BB09558E8F.png","mime":"image\/png","width":504,"height":169}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":15.27,"y":65.54},
+            "alwaysFullscreen":false,
+            "header":"Fill Colour",
+            "content":[
+                {
+                    "params":{"text":"Sets the background fill color of the multiline."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":24.24,"y":79.37},
+            "alwaysFullscreen":false,
+            "header":"Display Joints",
+            "content":[
+                {
+                    "params":{"text":"Controls the display of the joints at the vertices of each multiline segment."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-46467BA5-4F2F-48AF-9F29-54BCD16B0254.png","mime":"image\/png","width":504,"height":153}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":61.83,"y":61.10},
+            "alwaysFullscreen":false,
+            "header":"Offset",
+            "content":[
+                {
+                    "params":{"text":"Specifies the offset for each element in the multiline style."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-A6ED3E1F-7DB6-446F-9AD5-ABA57B55F789.png","mime":"image\/png","width":504,"height":203}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":61.83,"y":69.71},
+            "alwaysFullscreen":false,
+            "header":"Colour",
+            "content":[
+                {
+                    "params":{"text":"Displays and sets the colour for elements in the multiline style."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":63.93,"y":78.07},
+            "alwaysFullscreen":false,
+            "header":"Linetype",
+            "content":[
+                {
+                    "params":{"text":"Displays and sets the linetype for elements in the multiline style."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":66.41,"y":52.48},
+            "alwaysFullscreen":false,
+            "header":"Add/Delete",
+            "content":[
+                {
+                    "params":{"text":"Adds or deletes a new element to the multiline style."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        }
+    ],
+    "hotspotNumberLabel":"Hotspot #num",
+    "closeButtonLabel":"Close",
+    "containsAudioVideoLabel":"Contains Audio\/Video",
+    "backgroundImageAltText":"AutoCAD Multiline Style items",
+    "image":{
+        "path":"images\/multilineStyle.png","mime":"image\/png","copyright":{"license":"U"},"width":524,"height":383
+    }
+}
