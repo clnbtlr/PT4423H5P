@@ -55,6 +55,10 @@
                 {
                     "params":{"text":"Aligns the tolerance text with the top, middle or bottom of the main dimension text."},
                     "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-5D55A583-92EA-45F8-868F-C5FA659ED06A.png","mime":"image\/png","width":504,"height":202}},
+                    "library":"H5P.Image 1.1"
                 }
             ]
         },
@@ -66,6 +70,10 @@
                 {
                     "params":{"text":"Controls the alignment of upper and lower tolerance values when stacked. Values are stacked by either their decimal or operation symbols."},
                     "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-A0CCAA51-5E62-4AA7-9762-85FFCC8D06C3.png","mime":"image\/png","width":340,"height":118}},
+                    "library":"H5P.Image 1.1"
                 }
             ]
         },
