@@ -20,7 +20,7 @@
             "header":"Unit format",
             "content":[
                 {
-                    "params":{"text":"Sets the current units format for all dimension types except Angular. For metric dimensions, set this to Decimal"},
+                    "params":{"text":"Sets the current units format for all dimension types except Angular. For metric dimensions, set this to Decimal."},
                     "library":"H5P.Text 1.1"
                 }
             ]

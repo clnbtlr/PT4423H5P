@@ -1,0 +1,62 @@
+{
+    "iconType":"icon",
+    "icon":"plus",
+    "color":"#E51050",
+    "hotspots":[
+        {
+            "position":{"x":92.58,"y":19.12},
+            "alwaysFullscreen":false,
+            "header":"Preview",
+            "content":[
+                {
+                    "params":{"text":"The preview displays a graphic representation of the dimension style and shows the effects of changes to the settings."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":27.56,"y":15.11},
+            "alwaysFullscreen":false,
+            "header":"Display Alternate Units",
+            "content":[
+                {
+                    "params":{"text":"Adds alternate measurement units to dimension text. For example, showing dimension in both imperial and metric units."},
+                    "library":"H5P.Text 1.1"
+                },
+                {
+                    "params":{"contentName":"Image","file":{"path":"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-236CBEC9-09DC-48C9-9903-7E909DA70EBE.png","mime":"image\/png","width":504,"height":44}},
+                    "library":"H5P.Image 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":26.68,"y":36.52},
+            "alwaysFullscreen":false,
+            "header":"Multiplier for Alt Units",
+            "content":[
+                {
+                    "params":{"text":"Specifies the multiplier used as the conversion factor between primary and alternate units. For example, to convert inches to millimetres, enter 25.4, or to convert millimetres to inches , enter 0.0394. The value has no effect on angular dimensions."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":67.31,"y":63.10},
+            "alwaysFullscreen":false,
+            "header":"Placement",
+            "content":[
+                {
+                    "params":{"text":"Controls the placement of alternate units in dimension text, either After or Before the primary units."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        }
+    ],
+    "hotspotNumberLabel":"Hotspot #num",
+    "closeButtonLabel":"Close",
+    "containsAudioVideoLabel":"Contains Audio\/Video",
+    "backgroundImageAltText":"AutoCAD Dimension Style Manager Alternate Units tab items",
+    "image":{
+        "path":"images\/img_dimensionStyleManagerAlternateUnits.png","mime":"image\/png","copyright":{"license":"U"},"width":566,"height":523
+    }
+}
