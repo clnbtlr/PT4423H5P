@@ -35,7 +35,7 @@
             "header":"Multiplier for Alt Units",
             "content":[
                 {
-                    "params":{"text":"Specifies the multiplier used as the conversion factor between primary and alternate units. For example, to convert inches to millimetres, enter 25.4, or to convert millimetres to inches , enter 0.0394. The value has no effect on angular dimensions."},
+                    "params":{"text":"Specifies the multiplier used as the conversion factor between primary and alternate units. For example, to convert inches to millimetres, enter 25.4; to convert millimetres to inches, enter 0.0394. The value has no effect on angular dimensions."},
                     "library":"H5P.Text 1.1"
                 }
             ]
