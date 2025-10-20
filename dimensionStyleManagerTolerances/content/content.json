@@ -20,7 +20,62 @@
             "header":"Method",
             "content":[
                 {
-                    "params":{"text":"Sets the method for calculating the tolerance.<ul><li><strong>None:</strong>  Does not add a tolerance.</li><li><strong>Symmetrical:</strong>  Adds a plus/minus expression of tolerance in which a single value of variation is applied to the dimension measurement. A plus-or-minus sign appears after the dimension. Enter the tolerance value in Upper Value.<div class=\"fig fignone\"><img class=\"image\" width=\"126\" height=\"40\" src=\"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-CC6D5BC6-5C7B-4330-924A-A15F2EF4FCA5.png\"></div></li></ul>"},
+                    "params":{"text":"Sets the method for calculating the tolerance.<ul><li><strong>None:</strong>  Does not add a tolerance.</li><li><strong>Symmetrical:</strong> Adds a plus/minus expression of tolerance in which a single value of variation is applied to the dimension measurement. A plus-or-minus sign appears after the dimension. Enter the tolerance value in Upper Value.<div class=\"fig fignone\"><img class=\"image\" width=\"126\" height=\"40\" src=\"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-CC6D5BC6-5C7B-4330-924A-A15F2EF4FCA5.png\"></div></li><li><strong>Deviation:</strong> Adds a plus/minus tolerance expression. Different plus and minus values of variation are applied to the dimension measurement. A plus sign (+) precedes the tolerance value entered in Upper Value, and a minus sign (-) precedes the tolerance value entered in Lower Value.<div class=\"fig fignone\"><img class=\"image\" width=\"126\" height=\"40\" src=\"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-F576DE8C-5CEF-4C9B-8E11-D64CA9C15C17.png\"></div></li><li><strong>Limits:</strong> Creates a limit dimension. A maximum and a minimum value are displayed, one over the other. The maximum value is the dimension value plus the value entered in Upper Value. The minimum value is the dimension value minus the value entered in Lower Value.<div class=\"fig fignone\"><img class=\"image\" width=\"126\" height=\"40\" src=\"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-2D7048DC-2FE3-4E80-BA06-B415AA30B8B6.png\"></div></li><li><strong>Basic:</strong> Creates a basic dimension, which displays a box around the full extents of the dimension. Basic dimensions are used in Geometric Dimensioning and Tolerancing to describe the theoretically exact location, orientation, size, or profile of a feature or datum target. Because basic dimensions are theoretically perfect dimensions, there are no tolerances associated with them.<div class=\"fig fignone\"><img class=\"image\" width=\"126\" height=\"40\" src=\"https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-Core/images/GUID-A9615C23-F1D2-4AA9-981A-16DF178290DC.png\"></div></li></ul>"},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":14.31,"y":25.43},
+            "alwaysFullscreen":false,
+            "header":"Precision",
+            "content":[
+                {
+                    "params":{"text":"Sets the number of decimal places."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":22.61,"y":48.18},
+            "alwaysFullscreen":false,
+            "header":"Scaling for Height",
+            "content":[
+                {
+                    "params":{"text":"Sets the current height for the tolerance text as the ratio of the tolerance height to the main dimension text height."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":20.32,"y":55.26},
+            "alwaysFullscreen":false,
+            "header":"Vertical Position",
+            "content":[
+                {
+                    "params":{"text":"Aligns the tolerance text with the top, middle or bottom of the main dimension text."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":33.39,"y":45.12},
+            "alwaysFullscreen":false,
+            "header":"Tolerance Alignment",
+            "content":[
+                {
+                    "params":{"text":"Controls the alignment of upper and lower tolerance values when stacked. Values are stacked by either their decimal or operation symbols."},
+                    "library":"H5P.Text 1.1"
+                }
+            ]
+        },
+        {
+            "position":{"x":79.51,"y":60.99},
+            "alwaysFullscreen":false,
+            "header":"Alternate Unit Tolerance",
+            "content":[
+                {
+                    "params":{"text":"Formats alternate tolerance units."},
                     "library":"H5P.Text 1.1"
                 }
             ]
