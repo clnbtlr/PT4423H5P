@@ -75,7 +75,7 @@
             "header":"Draw Dim Line Between Ext Lines",
             "content":[
                 {
-                    "params":{"text":"Draws dimension lines between the measured points even when the arrowheads are placed outside the measured points."},
+                    "params":{"text":"<p>Draws dimension lines between the measured points even when the arrowheads are placed outside the measured points.</p><p>Useful for turning off radius dimension lines.</p>"},
                     "library":"H5P.Text 1.1"
                 }
             ]
